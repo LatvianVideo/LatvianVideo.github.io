@@ -1,1 +1,10 @@
-
+{
+  "OQAHI": {
+    "car": "GE20",
+    "vin": "OQAHI"
+  },
+  "ZUFOD": {
+    "car": "VAN25",
+    "vin": "ZUFOD"
+  },
+}
