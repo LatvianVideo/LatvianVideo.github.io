@@ -1,10 +1,94 @@
 {
-  "OQAHI": {
-    "car": "GE20",
-    "vin": "OQAHI"
-  },
-  "ZUFOD": {
-    "car": "VAN25",
-    "vin": "ZUFOD"
-  },
+  "cars":[
+    {
+      "vin" "OQAHI"
+    },
+    {
+      "vin" "IBOME"
+    },
+    {
+      "vin" "ASUBE"
+    },
+    {
+      "vin" "QUBAQ"
+    },
+    {
+      "vin" "MODEV"
+    },
+    {
+      "vin" "QIWIR"
+    },
+    {
+      "vin" "NECOS"
+    },
+    {
+      "vin" "XOHOS"
+    },
+    {
+      "vin" "RARUP"
+    },
+    {
+      "vin" "UVUPO"
+    },
+    {
+      "vin" "NUSOM"
+    },
+    {
+      "vin" "AVEVA"
+    },
+    {
+      "vin" "JEZIG"
+    },
+    {
+      "vin" "POFUX"
+    },
+    {
+      "vin" "RIYOF"
+    },
+    {
+      "vin" "ZACAN"
+    },
+    {
+      "vin" "IYUCE"
+    },
+    {
+      "vin" "SEMOX"
+    },
+    {
+      "vin" "ARUVA"
+    },
+    {
+      "vin" "LEZOS"
+    },
+    {
+      "vin" "IZIQA"
+    },
+    {
+      "vin" "OPAJA"
+    },
+    {
+      "vin" "ESIRA"
+    },
+    {
+      "vin" "PUCOP"
+    },
+    {
+      "vin" "VIWOR"
+    },
+    {
+      "vin" "DOMUL"
+    },
+    {
+      "vin" "UDADE"
+    },
+    {
+      "vin" "TEGAT"
+    },
+    {
+      "vin" "SICEJ"
+    },
+    {
+      "vin" "REROT"
+    },
+    ]
 }
